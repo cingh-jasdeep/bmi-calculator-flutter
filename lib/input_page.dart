@@ -40,7 +40,7 @@ class _InputPageState extends State<InputPage> {
                     label: 'FEMALE',
                   ),
                 ),
-              )
+              ),
             ],
           )),
           Expanded(
